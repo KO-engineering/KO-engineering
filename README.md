@@ -1,2 +1,1 @@
--  Hi, I’m monkekyle181
--  fullstack developer - python c++ c# react next.js figma fusion360 kicad unity
+fullstack dev - in future we trust
