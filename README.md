@@ -1,1 +1,1 @@
-fullstack dev - in future we trust
+fullstack dev
