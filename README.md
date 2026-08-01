@@ -1,4 +1,8 @@
-14 y/o fullstack dev 
+14 y/o fullstack dev (hardware + software) 
+
+coding / building since 7
+
+email open for work: hxndrd@gmail.com                        
 
 <br>
 
