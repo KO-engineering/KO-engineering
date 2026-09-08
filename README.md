@@ -1,4 +1,4 @@
-14 y/o fullstack dev (hardware + software) 
+15 y/o fullstack dev (hardware + software) 
 
 coding / building since 7
 
